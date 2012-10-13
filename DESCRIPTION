@@ -1,0 +1,10 @@
+Package: YeastmRNACor
+Type: Package
+Title: Yeast Correlation Finder
+Version: 0.99.0
+Date: 2012-10-12
+Author: Paul Shannon
+Maintainer: Paul Shannon <pshannon@fhcrc.org>
+Description: Find S.cerevisiae genes with correlated expression
+License: Artistic-2.0
+Packaged: 2012-10-13 02:19:26 UTC; pshannon
