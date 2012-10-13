@@ -23,7 +23,7 @@ correlationFinder
 
 \examples{
   \dontrun{
-      correlated.list <- correlationFinder ()
+      correlated.list <- correlationFinder()
       }
    }
 
